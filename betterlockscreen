@@ -30,7 +30,7 @@ init_config () {
     loginbox=00000066
     loginshadow=00000000
     locktext="Type password to unlock..."
-    font="sans-serif"
+    font="JetBrains Mono"
     ringcolor=ffffffff
     insidecolor=00000000
     separatorcolor=00000000
@@ -39,7 +39,7 @@ init_config () {
     ringwrongcolor=ffffffff
     insidewrongcolor=d23c3dff
     timecolor=ffffffff
-    time_format="%H:%M:%S"
+    time_format="%I:%M %p"
     greetercolor=ffffffff
     layoutcolor=ffffffff
     keyhlcolor=d23c3dff
